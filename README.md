@@ -12,6 +12,7 @@ Each week introduces a different programming concept. The problems are solved us
 - `week1/` – Conditionals
 - `week2/` – Loops
 - `week3/` – Exceptions
+- `week4/` – Libraries
 
 *(More weeks coming soon as I progress through the course.)*
 
