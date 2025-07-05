@@ -13,6 +13,7 @@ Each week introduces a different programming concept. The problems are solved us
 - `week2/` – Loops
 - `week3/` – Exceptions
 - `week4/` – Libraries
+- `week5/` – Testing
 
 *(More weeks coming soon as I progress through the course.)*
 
