@@ -14,6 +14,7 @@ Each week introduces a different programming concept. The problems are solved us
 - `week3/` – Exceptions
 - `week4/` – Libraries
 - `week5/` – Testing
+- `week6/` – File I/O
 
 *(More weeks coming soon as I progress through the course.)*
 
