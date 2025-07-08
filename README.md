@@ -16,8 +16,7 @@ Each week introduces a different programming concept. The problems are solved us
 - `week5/` – Testing
 - `week6/` – File I/O
 - `week7/` – Regex
-
-*(More weeks coming soon as I progress through the course.)*
+- `week8/` – OOP
 
 ---
 
